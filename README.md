@@ -1,12 +1,10 @@
-# Default starter for Gridsome
+# frontenddevelopers.org
 
-### 1. Install Gridsome CLI tool if you don't have
+This is the main repo for the Front End Developers website
 
-`npm install --global @gridsome/cli`
+## Getting started
 
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter </li>
-2. `cd my-gridsome-site` to open folder
-3. `gridsome develop` to start local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+1. `git@github.com:frontenddevelopers/frontenddevelopers.org.git`
+2. `cd fontenddevelopers.org`
+3. `npm installs`
+4. `npm run develop`
