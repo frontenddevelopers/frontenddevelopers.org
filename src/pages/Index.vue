@@ -63,7 +63,7 @@ export default {
 
 @screen md {
   .logo {
-    @apply w-64 h-64;
+    @apply w-36 h-36;
   }
 }
 </style>
