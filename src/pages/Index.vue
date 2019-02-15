@@ -13,7 +13,7 @@
 
     <p
       class="blurb"
-    >Welcome to {{ $static.metaData.siteName }}. We are a friendly Discord community for Front End Developers of passionate engineers from juniors to experts alike.</p>
+    >Welcome to {{ $static.metaData.siteName }}. We are a friendly Discord community of passionate front end developers from juniors to experts alike.</p>
 
     <link-button link="https://discord.gg/aBx8dcu">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 713.8" class="discord-logo">
