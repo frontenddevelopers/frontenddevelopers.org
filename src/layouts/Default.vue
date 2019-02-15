@@ -13,9 +13,12 @@ query {
 </static-query>
 
 <style>
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
 html {
   box-sizing: border-box;
 }
+
 *,
 *:before,
 *:after {
