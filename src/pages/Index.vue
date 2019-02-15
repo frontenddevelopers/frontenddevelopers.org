@@ -9,7 +9,7 @@
       ></path>
     </svg>
 
-    <h1>{{ $static.metaData.siteName }}</h1>
+    <h1 class="title">{{ $static.metaData.siteName }}</h1>
 
     <p
       class="blurb"
@@ -46,14 +46,24 @@ export default {
 
 <style>
 .logo {
-  @apply w-64 h-64 fill-current text-white;
+  @apply mb-4 w-32 h-32 fill-current text-white;
+}
+
+.title {
+  @apply my-4;
 }
 
 .blurb {
-  @apply my-8;
+  @apply mb-12;
 }
 
 .discord-logo {
   @apply mr-2 w-8 h-8 fill-current text-white;
+}
+
+@screen md {
+  .logo {
+    @apply w-64 h-64;
+  }
 }
 </style>
