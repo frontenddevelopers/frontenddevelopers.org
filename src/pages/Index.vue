@@ -8,14 +8,11 @@
         d="M91 214.2H28a8.2 8.2 0 0 1-8.4-8.1V27.5c0-4.5 3.7-8.2 8.3-8.2h63V0H0v233.6h91v-19.4zM212 0h-62.7v19.3H212c4.6 0 8.3 3.7 8.3 8.2v178.6c0 4.5-3.7 8.1-8.3 8.1h-62.8v19.4H240V0h-28z"
       ></path>
     </svg>
-
     <h1 class="title">{{ $static.metaData.siteName }}</h1>
-
     <div class="blurb">
       <p>We are a friendly creative web developer Discord community (originally on Slack) of passionate front-end developers.</p>
       <p>Our goal is to connect developers of all stripes and aid in continued growth in their careers and the pursuit of knowledge. Whether you are looking to connect with like-minded devs, learn from others and ask questions or share your work and receive feedback, we'd love to have you!</p>
     </div>
-
     <link-button link="https://discord.gg/aBx8dcu">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 713.8" class="discord-logo">
         <path
