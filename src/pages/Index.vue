@@ -11,9 +11,9 @@
 
     <h1 class="title">{{ $static.metaData.siteName }}</h1>
 
-    <p
-      class="blurb"
-    >Welcome to {{ $static.metaData.siteName }}. We are a friendly Discord community of passionate front end developers from juniors to experts alike.</p>
+    <div class="blurb">
+      <p>We are a friendly Discord community of passionate front-end developers, from juniors to experts alike. Whether you are looking for helping, wanting to offer help or just want to chat about development, we'd love to have you!</p>
+    </div>
 
     <link-button link="https://discord.gg/aBx8dcu">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 713.8" class="discord-logo">
@@ -54,7 +54,7 @@ export default {
 }
 
 .blurb {
-  @apply mb-12;
+  @apply mb-12 text-lg;
 }
 
 .discord-logo {
