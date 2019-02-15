@@ -18,6 +18,15 @@ export default {
 
 <style>
 .button {
-  @apply inline-flex items-center py-4 px-6 bg-blurple rounded-lg text-white font-semibold no-underline;
+  @apply inline-flex items-center py-3 px-5 bg-blurple rounded shadow-md text-white font-semibold no-underline;
+  transition: box-shadow 300ms ease-in-out;
+}
+
+.button:hover {
+  @apply shadow;
+}
+
+.button:active {
+  @apply shadow-none;
 }
 </style>
