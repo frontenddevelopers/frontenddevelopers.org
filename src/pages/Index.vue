@@ -12,7 +12,7 @@
     <h1 class="title">{{ $static.metaData.siteName }}</h1>
 
     <div class="blurb">
-      <p>We are a friendly Discord community of passionate front-end developers, from juniors to experts alike. Whether you are looking for helping, wanting to offer help or just want to chat about development, we'd love to have you!</p>
+      <p>We are a friendly creative web developer Discord community (originally on Slack) of passionate front-end developers. Our goal is to connect developers of all stripes and aid in continued growth in their careers and the pursuit of knowledge. Whether you are looking to connect with like-minded devs, learn from others and ask questions or share your work and receive feedback, we'd love to have you!</p>
     </div>
 
     <link-button link="https://discord.gg/aBx8dcu">
