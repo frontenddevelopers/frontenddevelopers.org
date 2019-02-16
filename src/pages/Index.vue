@@ -65,7 +65,7 @@ export default {
   }
 
   .blurb {
-    @apply mb-12 text-lg;
+    @apply mb-10 text-lg;
   }
 }
 </style>
