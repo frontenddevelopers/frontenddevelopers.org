@@ -48,20 +48,24 @@ export default {
 }
 
 .title {
-  @apply my-4 font-sans;
+  @apply mt-0 mb-4 font-sans;
 }
 
 .blurb {
-  @apply mb-12 text-lg;
+  @apply mb-8;
 }
 
 .discord-logo {
   @apply mr-3 w-8 h-8 fill-current text-white;
 }
 
-@screen md {
+@screen sm {
   .logo {
-    @apply w-36 h-36;
+    @apply block mb-8 w-36 h-36;
+  }
+
+  .blurb {
+    @apply mb-12 text-lg;
   }
 }
 </style>
