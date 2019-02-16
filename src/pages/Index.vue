@@ -48,7 +48,7 @@ export default {
 }
 
 .title {
-  @apply my-4;
+  @apply my-4 font-sans;
 }
 
 .blurb {
@@ -56,7 +56,7 @@ export default {
 }
 
 .discord-logo {
-  @apply mr-2 w-8 h-8 fill-current text-white;
+  @apply mr-3 w-8 h-8 fill-current text-white;
 }
 
 @screen md {

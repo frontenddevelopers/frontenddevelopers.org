@@ -18,7 +18,7 @@ export default {
 
 <style>
 .button {
-  @apply inline-flex items-center py-3 px-5 bg-blurple rounded shadow-md text-white font-semibold no-underline;
+  @apply inline-flex items-center py-3 px-5 bg-blurple rounded shadow-md font-mono text-white font-semibold no-underline;
   transition: box-shadow 300ms ease-in-out;
 }
 
