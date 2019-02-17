@@ -13,8 +13,6 @@ query {
 </static-query>
 
 <style>
-@import url("https://fonts.googleapis.com/css?family=Lato|Inconsolata");
-
 html {
   box-sizing: border-box;
 }
