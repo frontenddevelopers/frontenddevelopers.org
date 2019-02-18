@@ -81,7 +81,7 @@ export default function(Vue, { router, head, isClient }) {
   });
 
   head.meta.push({
-    name: "twitter:image",
+    name: "twitter:summary_large_image",
     content: "/assets/img/meta/twitter-card-1200x675.png"
   });
 
