@@ -13,7 +13,7 @@
       <p>We are a friendly creative web developer Discord community (originally on Slack) of passionate front-end developers.</p>
       <p>Our goal is to connect developers of all stripes and aid in continued growth in their careers and the pursuit of knowledge. Whether you are looking to connect with like-minded devs, learn from others and ask questions or share your work and receive feedback, we'd love to have you!</p>
     </div>
-    <link-button link="https://discord.gg/aBx8dcu">
+    <link-button link="https://discord.gg/kx7pk6J">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 713.8" class="discord-logo">
         <path
           d="M362 0c-13.3 0-123 3.2-238.6 89.1 0 0-123.4 222-123.4 495.3 0 0 72 123.4 261.4 129.4 0 0 31.7-37.7 57.4-70.3-108.9-32.5-150-100.2-150-100.2s8.6 6 24 14.5c.9 0 1.7 1 3.4 1.8 2.6 1.7 5.2 2.5 7.7 4.2 21.5 12 42.9 21.5 62.6 29.2a652.4 652.4 0 0 0 126 36.8 600.3 600.3 0 0 0 221.9.9 614.5 614.5 0 0 0 124.2-36.9c30-11.1 63.5-27.4 98.6-50.5 0 0-42.9 69.4-155.1 101.1 25.7 31.7 56.5 68.5 56.5 68.5C928 707 1000 583.6 1000 584.4c0-273.3-123.4-495.3-123.4-495.3-122.5-91.7-240-89-240-89l-12 13.6c145.8 43.7 213.4 108 213.4 108-89-48-176.5-72-257.9-81.4a725 725 0 0 0-173 1.7c-5.2 0-9.5.9-14.6 1.7a671.4 671.4 0 0 0-194.6 54 679.8 679.8 0 0 0-50.5 24S217.7 54 371.9 10.3L363.3 0H362zm-21.8 316.2c48.8 0 88.2 42 87.4 94.3 0 52.2-38.6 94.2-87.4 94.2-48 0-87.4-42-87.4-94.2 0-52.3 38.5-94.3 87.4-94.3zm312.8 0c48 0 87.4 42 87.4 94.3 0 52.2-38.6 94.2-87.4 94.2-48 0-87.4-42-87.4-94.2 0-52.3 38.5-94.3 87.4-94.3z"
