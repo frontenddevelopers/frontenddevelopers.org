@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Inconsolata:wght@400;700&display=swap");
+@import "modern-normalize";
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Lato", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "Inconsolata", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --color-fed-blue: #00679e;
+  --color-blurple: #5865F2;
+}
